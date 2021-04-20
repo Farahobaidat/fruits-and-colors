@@ -7,7 +7,7 @@ else if (color == "yellow"){
 else if  (color=="green"){
     alert("grass");
 }
-else if(color=="sequre" || color=="retangle" || color =="circle"){
+else if(color=="squre" || color=="rectangle" || color =="circle"){
   
     alert("shape");
 }
