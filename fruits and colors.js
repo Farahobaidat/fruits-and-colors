@@ -9,8 +9,8 @@ switch(color){
     case("green"):
     alert("grass");
     break;
-    case("sequre"):
-    case("retangle"):
+    case("square"):
+    case("rectangle"):
     case("circle"):
     alert("shape");
     break;
